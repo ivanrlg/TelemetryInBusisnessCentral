@@ -1,0 +1,29 @@
+{
+  "id": "2fc20a2c-cd74-4cfd-8723-ed43e91d0c0f",
+  "name": "Azure_IoT",
+  "publisher": "ivansinglenton.dev",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "https://ivansinglenton.dev/",
+  "EULA": "https://ivansinglenton.dev/",
+  "help": "https://ivansinglenton.dev/",
+  "url": "https://ivansinglenton.dev/",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "20.0.0.0",
+  "idRanges": [
+    {
+      "from": 58100,
+      "to": 58149
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": false,
+    "includeSourceInSymbolFile": false
+  },
+  "runtime": "9.0"
+}
