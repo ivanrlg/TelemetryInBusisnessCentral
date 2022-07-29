@@ -8,4 +8,4 @@ This project allows you to view and monitor values emitted by an ESP8266 device 
 
 Handles CueGroups, PBT (Page Background Task) for auto-refresh, and PowerBi reports.
 
-For more information in the following link: https://ivansinglenton.dev/?p=1541
+For more information in the following link: https://ivansingleton.dev/?p=1541
